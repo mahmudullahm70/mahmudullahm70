@@ -33,7 +33,6 @@ Hey 💖 I am Mahmudullah ❤️
    <a href="https://www.java.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
  
 
-
   
 
 
@@ -45,3 +44,5 @@ Hey 💖 I am Mahmudullah ❤️
 
 
  
+<h3 align="left">📈 Contribution Graph:</h3>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudullahm70&bg_color=ffffff&color=0e75b6&line=0e75b6&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph" /></p>
