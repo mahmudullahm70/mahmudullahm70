@@ -3,16 +3,16 @@
 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudullahm70&label=Profile%20views&color=0e75b6&style=flat" alt="exploreTanvir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudullahm70&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudullahm70" /> </p>
 
 
 
 
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **node JS**
 
-- 💬 Ask me about **python , JS**
+- 💬 Ask me about **python , JS , Mongodb**
 
 - 📫 How to reach me **mahmudullahm70@gmail.com**
 
